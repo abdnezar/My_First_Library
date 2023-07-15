@@ -10,5 +10,6 @@ class MyLibraryActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_my_library)
         Toast.makeText(this, "hello first library", Toast.LENGTH_SHORT).show()
+
     }
 }
